@@ -1,1 +1,1 @@
-init 
+runghc main.hs
